@@ -1,8 +1,8 @@
 let card = document.getElementById("cin");
 
-let arr = ["/hq720 (1).webp","/hq720 (2).webp","/hq720.webp","/hq720 (3).webp",];
+let arr = ["./hq720 (1).webp","./hq720 (2).webp","./hq720.webp","./hq720 (3).webp",];
 let arrTitle = ["WSJ The Economics Of","اخطر من النووي | الدحيح","كيف تبرمج عقلك الباطن - شرح كامل لكتاب قوة عقلك الباطن","الحاسة السادسة"];
-let arrTitle2 = ["/unnamed.jpg" , "/ch1.jpg","/channels4_profile.jpg","/ch1.jpg"];
+let arrTitle2 = ["./unnamed.jpg" , "./ch1.jpg","./channels4_profile.jpg","./ch1.jpg"];
 let arrTitle3 = ["Wall Street Journal" , "الدحيح","Dupamicaffeine","الدحيح"];
 let arrTitle4 = ["2.1M" , "3.3M","7.3M","3.7M"];
 let arrTitle5 = ["1 years" , "6 month","2 years","4 years"];
